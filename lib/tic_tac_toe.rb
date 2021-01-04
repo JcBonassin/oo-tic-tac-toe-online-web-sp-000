@@ -1,37 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
-
-@JcBonassin
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-alexisadorn
-/
-Tic-Tac-Toe-Ruby
-1
-217
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Tic-Tac-Toe-Ruby/oo-tic-tac-toe-v-000/lib/tic_tac_toe.rb /
-@alexisadorn
-alexisadorn Tic Tac Toe labs
-Latest commit 8f439e7 on 28 Mar 2017
- History
- 1 contributor
-141 lines (121 sloc)  2.28 KB
-
 class TicTacToe
 
   WIN_COMBINATIONS = [
