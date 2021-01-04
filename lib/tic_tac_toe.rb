@@ -5,8 +5,8 @@ Pull requests
 Issues
 Marketplace
 Explore
- 
-@JcBonassin 
+
+@JcBonassin
 Learn Git and GitHub without any code!
 Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
 
@@ -31,7 +31,7 @@ Latest commit 8f439e7 on 28 Mar 2017
  History
  1 contributor
 141 lines (121 sloc)  2.28 KB
-  
+
 class TicTacToe
 
   WIN_COMBINATIONS = [
@@ -173,4 +173,3 @@ def play
 end
 
 end
-
